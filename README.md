@@ -18,4 +18,4 @@ This assignments task was to follow the loop invariant and the given information
         3) All values in array[pair.right+1 .. i] are greater than array[Pair.right]
 ```
 
-The goal is to use bring the pivot values between the 2 pairs and sort them using an algorithm that runs in O(n). This is a faster variation than a traditional quicksort algorithm. The test cases that are written in main indicates that are algorithm works.
+The goal is to bring the pivot values between the 2 pairs and sort them just like Quicksort implementing an algorithm that runs in O(n). This is a faster variation than a traditional Quicksort algorithm. The test cases that are written in main indicates that are algorithm works.
