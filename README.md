@@ -1,6 +1,6 @@
 # Quicksort-w-Pair
 ```sh
-This assignments task was to follow the loop invariant that is given as:
+This assignments task was to follow the loop invariant and the given information:
      *  Return a Pair of indices, such that 
      *  Pair.left <= Pair.right, and 
      *  for p <= i < Pair.left, array[i] < array[Pair.left], and
